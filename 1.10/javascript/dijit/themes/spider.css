@@ -1,0 +1,8 @@
+
+.sbVerticalCenter {
+  position:relative;
+  display:table-cell;
+  vertical-align:middle;
+  top:0px;
+  left:0px;
+}
